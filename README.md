@@ -66,5 +66,5 @@ const me = {
 **LinkedIn**
 [![Linkedin Badge](https://img.shields.io/badge/-iagobarretoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagobarreto//)](https://www.linkedin.com/in/iagobarreto/) <br />
 **E-Mail**
-iagoeletronicaifsc@gmail.com
+iagoeletronicaifsc@gmail.com <br />
 ![that's all!](https://media1.tenor.com/images/5bc912bcc1226c714f8804798aad41e3/tenor.gif?itemid=5448932)

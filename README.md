@@ -54,9 +54,7 @@ const me = {
 
  - **DragonScript** - Coding game. [Dragons!!!!](http://dragonscriptarena.com/)
 - **CSS FlexBox** Games to Learn Flexbox and Flex Grid. [Grid garden](https://cssgridgarden.com/) & [Froggy](https://flexboxfroggy.com/)
-- **CSS Animations** on Demand! [Animista.net](https://animista.net/)
-- **CodeWars - Train coding with katas** [Follow me!](https://www.codewars.com/users/iagobarretoc)
-- **Netlify** - not netlix, this is ***way better*** then netflix.
+- **CodeWars - Training coding with katas** - Follow me! [https://www.codewars.com/users/iagobarretoc](https://www.codewars.com/users/iagobarretoc)
 - **CodeSandBox** - Follow me! [https://codesandbox.io/u/iagokrt](https://codesandbox.io/u/iagokrt)
 
  ### 📫 Contact Info 

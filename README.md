@@ -3,7 +3,7 @@
 
 
 ![image gif bla-bla-bla](https://i.imgur.com/t39jE7p.gif)
-well, letsgo!
+Well, letsgo!
 
 ```js
 const me = {
@@ -42,7 +42,7 @@ const me = {
 | **> Insomnia** |
 | **> Gatsby** |
 | **> ThreeJs** |
-| **> stackoverflow, and so on..** |
+| **> and a lot of other cool stuff** |
 
  ---
 

@@ -1,10 +1,6 @@
 
 # Hello!
 
-
-![image gif bla-bla-bla](https://i.imgur.com/t39jE7p.gif)
-Well, letsgo!
-
 ```js
 const me = {
 	    name: 'iago Carneiro',

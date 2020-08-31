@@ -24,7 +24,7 @@ const me = {
 
 ---
 
-## I'm currently hangin' around with...
+## I'm currently studying and my projects are supported by these technologies...
 | Techs  |
 |--|
 | **> HTML5/CSS3/JS** |   

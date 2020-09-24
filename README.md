@@ -1,6 +1,8 @@
 
 # Hello!
 
+![me!](https://i.imgur.com/X4fQ7c0.gif)
+
 ```js
 const me = {
 	    name: 'iago Carneiro',
@@ -23,24 +25,6 @@ const me = {
 - **Designer and Visual Communication Freelancer** 
 
 ---
-
-## I'm currently studying and my projects are supported by these technologies...
-| Techs  |
-|--|
-| **> HTML5/CSS3/JS** |   
-| **> React** | 
-| **> React-Native** | 
-| **> Node.js** |
-| **> TypeScript** |
-| **> TypeORM** |
-| **> PostgreSQL** |
-| **> Docker** |
-| **> Insomnia** |
-| **> Gatsby** |
-| **> ThreeJs** |
-| **> And a lot of other cool stuff** |
-
- ---
 
 ##  [HelpMe!] I’m looking for mentoring!  
 - **If you're looking for a pupil to mentor on webGL and Threejs. You Just found!**

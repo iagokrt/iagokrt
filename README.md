@@ -1,4 +1,3 @@
-<center>
 # Hello!
 
 ![me!](https://i.imgur.com/X4fQ7c0.gif)
@@ -24,7 +23,6 @@ const me = {
 
 - **Designer and Visual Communication Freelancer** 
 
----
 
 ##  [HelpMe!] I’m looking for mentoring!  
 - **If you're looking for a pupil to mentor on webGL and Threejs. You Just found!**
@@ -46,4 +44,3 @@ const me = {
 **E-Mail**
 iagoeletronicaifsc@gmail.com <br />
 ![that's all!](https://media1.tenor.com/images/5bc912bcc1226c714f8804798aad41e3/tenor.gif?itemid=5448932)
- </center>

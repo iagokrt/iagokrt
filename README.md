@@ -1,4 +1,4 @@
-
+<center>
 # Hello!
 
 ![me!](https://i.imgur.com/X4fQ7c0.gif)
@@ -46,3 +46,4 @@ const me = {
 **E-Mail**
 iagoeletronicaifsc@gmail.com <br />
 ![that's all!](https://media1.tenor.com/images/5bc912bcc1226c714f8804798aad41e3/tenor.gif?itemid=5448932)
+ </center>

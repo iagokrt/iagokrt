@@ -34,6 +34,8 @@ const me = {
 - **CSS FlexBox** Games to Learn Flexbox and Flex Grid. [Grid garden](https://cssgridgarden.com/) & [Froggy](https://flexboxfroggy.com/)
 - **CodeWars - Training coding with katas** - Follow me! [https://www.codewars.com/users/iagobarretoc](https://www.codewars.com/users/iagobarretoc)
 - **CodeSandBox** - Follow me! [https://codesandbox.io/u/iagokrt](https://codesandbox.io/u/iagokrt)
+![cw-iago](https://www.codewars.com/users/iagobarretoc/badges/small)
+
 
  ### 📫 Contact Info 
 

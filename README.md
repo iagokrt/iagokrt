@@ -59,13 +59,14 @@ iagoeletronicaifsc@gmail.com <br />
 
 <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" title="Nodejs" alt="Nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
 <img align="left" title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img align="left" title="Nodejs" alt="Nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
 ![that's all!](https://media1.tenor.com/images/5bc912bcc1226c714f8804798aad41e3/tenor.gif?itemid=5448932)

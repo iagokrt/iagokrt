@@ -48,10 +48,10 @@ iagoeletronicaifsc@gmail.com <br />
 
 ### [ ]
 
-![cw-iago](https://www.codewars.com/users/iagobarretoc/badges/small) https://codesandbox.io/u/iagokrt
+![cw-iago](https://www.codewars.com/users/iagobarretoc/badges/small) <br />
 
-![csbox-icon](https://i.imgur.com/zEP9zdn.png) 
-
+https://codesandbox.io/u/iagokrt
+<img align="left" title="HTML5" alt="HTML5" width="40px" src="https://i.imgur.com/zEP9zdn.png" />
 
 <img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 

@@ -28,12 +28,10 @@ const me = {
 - **If you're looking for a pupil to mentor on webGL and Threejs. You Just found!**
 >  Learning about React Three Fiber would be an amazing experience too
 
-## Links and Stuff! SUPER COOL STUFF!
+## Link suggestions!
 
  - **DragonScript** - Coding game. [Dragons!!!!](http://dragonscriptarena.com/)
 - **CSS FlexBox** Games to Learn Flexbox and Flex Grid. [Grid garden](https://cssgridgarden.com/) & [Froggy](https://flexboxfroggy.com/)
-- **CodeWars - Training coding with katas** - Follow me! [https://www.codewars.com/users/iagobarretoc](https://www.codewars.com/users/iagobarretoc)
-- **CodeSandBox** - Follow me! [https://codesandbox.io/u/iagokrt](https://codesandbox.io/u/iagokrt)
 
  ### 📫 Contact Info 
 
@@ -50,7 +48,9 @@ iagoeletronicaifsc@gmail.com <br />
 
 ### [ ]
 
-![cw-iago](https://www.codewars.com/users/iagobarretoc/badges/small)
+![cw-iago](https://www.codewars.com/users/iagobarretoc/badges/small) https://codesandbox.io/u/iagokrt
+
+![csbox-icon](https://i.imgur.com/zEP9zdn.png) 
 
 
 <img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

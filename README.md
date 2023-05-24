@@ -2,31 +2,9 @@
 
 ![me!](https://i.imgur.com/X4fQ7c0.gif)
 
-```js
-const me = {
-	    name: 'iago Carneiro',
-	    home: 'Florianópolis, Santa Catarina, Brazil.',
-	    age: 22,
-	    movies: ['Rock Dog', 'Matrix', 'Tá dando onda', 'Fight Club', 'Wanted']
-    };
-``` 
-
- 
 ## About me
 
-
-- **IT Student** 
-
-- **Acoustic Guitar Aprendice** 
-
-- **JavaScript FullStack Jr.**
-
-- **Designer and Visual Communication Freelancer** 
-
-
-##  [HelpMe!] I’m looking for mentoring!  
-- **If you're looking for a pupil to mentor on webGL and Threejs. You Just found!**
->  Learning about React Three Fiber would be an amazing experience too
+- **Web Designer and Visual Communication Designer** 
 
 ## Link suggestions!
 
@@ -34,10 +12,6 @@ const me = {
 - **CSS FlexBox** Games to Learn Flexbox and Flex Grid. [Grid garden](https://cssgridgarden.com/) & [Froggy](https://flexboxfroggy.com/)
 
  ### 📫 Contact Info 
-
- **Twitter** 
-[![Twitter: iagokrt](https://img.shields.io/twitter/follow/iagokrt?style=social)](https://twitter.com/iagokrt) <br />
-
 
 **LinkedIn**
 [![Linkedin Badge](https://img.shields.io/badge/-iagobarretoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagobarreto//)](https://www.linkedin.com/in/iagobarreto/) <br />
@@ -66,7 +40,3 @@ https://codesandbox.io/u/iagokrt
 <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-
-
-![that's all!](https://media1.tenor.com/images/5bc912bcc1226c714f8804798aad41e3/tenor.gif?itemid=5448932)

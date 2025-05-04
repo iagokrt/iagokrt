@@ -1,14 +1,37 @@
 # Hello!
 
-![me!](https://i.imgur.com/X4fQ7c0.gif)
-
 ## About me
 
-- **Web Designer and Visual Communication Designer** 
+- **Frontend Developer and RPA Developer** 
 
 ## Link suggestions!
 
- - **DragonScript** - Coding game. [Dragons!!!!](http://dragonscriptarena.com/)
+Aqui vão algumas produções ao longo dos anos:
+
+Meu projeto mais recente, um jogo quebra-cabeças. Tenha paciência e você conseguirá zerar o jogo movendo as peças, alinhando-as de uma forma criativa xD
+
+[monumental-paprenjak](https://monumental-paprenjak-bb4692.netlify.app/)
+
+Estudo de Parallax em 2d em javascript, sempre gostei de games e efeitos visuais em jogos e filmes:
+
+https://scratchkrt.netlify.app/
+
+Um site PESADO, mas que se bem otimizado pode ser performatico em estado de arte e tecnologia 
+
+https://iago.netlify.app/
+
+Site com temas em construção civil
+
+https://gracious-curie-5a9d81.netlify.app/
+
+Meu blog que estou por realizar grandes atualizações assim que possível
+
+https://writeisland.netlify.app/
+
+Extras:
+
+ 
+- **DragonScript** - Coding game. [Dragons!!!!](http://dragonscriptarena.com/)
 - **CSS FlexBox** Games to Learn Flexbox and Flex Grid. [Grid garden](https://cssgridgarden.com/) & [Froggy](https://flexboxfroggy.com/)
 
  ### 📫 Contact Info 
